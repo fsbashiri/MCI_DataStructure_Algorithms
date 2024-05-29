@@ -39,6 +39,9 @@ The programming examples in the course is written in JavaScript. The python vers
 
 ![[BigO_Complexity_Chart.png]]
 
+![T](/Master_the_coding_interview/Section_3_BigO/BigO_Complexity_Chart.png)
+
+
 **Type of Big Os:**
 
 | Big O           | Type        | Description                                             |
