@@ -15,7 +15,7 @@ The programming examples in the course is written in JavaScript. The python vers
 - Online link: [Big O cheatsheet - ZTM](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
 - Online link: [Big O cheatsheet](https://www.bigocheatsheet.com/)
 - YouTube link: [Big O Notation Tutorial](https://youtu.be/TUiv2UgDgOQ)
-- Cheatsheet file: [PDF](obsidian://open?vault=Obsidian%20Vault&file=Master%20the%20coding%20interview%2FSection%203%20-%20BigO%2FBigO-cheat-sheet.pdf)
+- Cheatsheet file: [PDF](obsidian://open?vault=Obsidian_Vault&file=Master_the_coding_interview/Section_3_BigO/BigO-cheat-sheet.pdf)
 
 ### Summary
 
