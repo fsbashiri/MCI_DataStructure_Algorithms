@@ -37,10 +37,7 @@ The programming examples in the course is written in JavaScript. The python vers
 
 **Big-O Complexity**
 
-![[BigO_Complexity_Chart.png]]
-
-![[Section_3_BigO/BigO_Complexity_Chart.png]]
-
+![BigO_Complexity_Chart](./BigO_Complexity_Chart.png)
 
 **Type of Big Os:**
 
