@@ -26,9 +26,13 @@ The programming examples in the course is written in JavaScript. The python vers
 
 **Rule book**
 - Rule 1: Always worst Case
-		When we think about scalability, we cannot assume things will go well. For example, when looping over an array, the item of interest might be the last index we will check.
+
+  When we think about scalability, we cannot assume things will go well. For example, when looping over an array, the item of interest might be the last index we will check.
+  
 - Rule 2: Remove Constants
-		In scalability, when *n* gets bigger and bigger, we don't care about adding an extra 100 steps! We care about how the line increases when the number of elements increases. We care it's linear, not how steep (e.g., O(n) vs. O(2n)) it is!
+
+  In scalability, when *n* gets bigger and bigger, we don't care about adding an extra 100 steps! We care about how the line increases when the number of elements increases. We care it's linear, not how steep (e.g., O(n) vs. O(2n)) it is!
+  
 - Rule 3: Different inputs should have different variables. 
 	- O(a+b): for steps in order
 	- O(a*b): for nested steps
