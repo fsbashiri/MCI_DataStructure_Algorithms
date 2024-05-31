@@ -1,4 +1,4 @@
-### Before you start
+# Before you start
 
 **GitHub reps**
 Andrei's GitHub repo: [**Andrei's GitHub repo specific to this course**](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)
@@ -17,7 +17,7 @@ The programming examples in the course is written in JavaScript. The python vers
 - YouTube link: [Big O Notation Tutorial](https://youtu.be/TUiv2UgDgOQ)
 - Cheatsheet file: [PDF](./BigO-cheat-sheet.pdf)
 
-### Summary
+# Summary
 
 **What is good good code?**
 - Readable
