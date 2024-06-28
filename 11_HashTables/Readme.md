@@ -26,6 +26,7 @@ Hash tables are fast, because they are not ordered and do not need to be pushed,
 | **lookup** | O(1)  |
 | **delete** | O(1)  |
 | **searc**h | O(1)  |
+
 There are two problems with randomly allocating memory, as we don't have indefinite space! 
 1. Unordered keys are not suitable for some applications.
 2. Two keys may point to a same location in memory. This is called **collision**. Animated demonstration of collision can be found in this [link](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html).
