@@ -1,3 +1,5 @@
+# Introduction
+
 Arrays have limited memory and poor performance in insert/delete operations where it needs to shift elements. Hash tables solve this issue, but are unordered. 
 
 Linked lists contain **a set of nodes**. Each node has two elements: the **value** of the data, and a **pointer** to the next node. The first node is called the **head**, and the last node is called the **tail**. The last node points to null! Here is an [animated demonstration](https://visualgo.net/en/list?slide=1) of Linked Lists.
