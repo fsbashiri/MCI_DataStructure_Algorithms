@@ -61,6 +61,14 @@ A doubly linked list:
 
 **So doubly link lists are really good when** you don't have that much limitation on memory. And, when you want good operation for searching for elements.
 
+# Python codes
+
+Introduction to linked lists: [LinkedList_01_intro.py](./LinkedList_01_intro.py)
+
+implementation of a singly linked list: [LinkedList_02_implementSingly.py](./LinkedList_02_implementSingly.py)
+
+implementation of a doubly linked list: [LinkedList_03_implementDoubly.py](./LinkedList_03_implementDoubly.py)
+
 # Summary
 
 **Pros:**
