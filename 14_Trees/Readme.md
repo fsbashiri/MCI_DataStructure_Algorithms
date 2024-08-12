@@ -107,3 +107,7 @@ A trie has an empty root, and then letters are added. It is not a binary tree, s
 Benefits of trie are speed and space!
 - When looking for a word, you need to find the length of the word: O(length)
 - Because of the prefixes, you save space. You don't have to store a word not in use.
+
+# Python codes
+
+- implementation of Binary Search Tree data structure: [Trees_01_implement.py](./Trees_01_implement.py)
