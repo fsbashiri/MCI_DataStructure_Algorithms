@@ -11,7 +11,7 @@ A popular type of graph: **DAG** = **Directed Acyclic Graph**
 
 # Implement a graph
 
-Three ways to build a graph with data structures we've studied so far:
+Here is a [link](https://visualgo.net/en/graphds) to a little visualization tool for graphs. There are three ways to build a graph with data structures we've studied so far:
 - **Edge list**: A list of edges, where each item in the list shows the nodes on both sides of an edge. For example: `[[0, 2], [2, 3], [2, 1], [1, 3]]`
 - **Adjacent list**: A list of adjacencies. The index of each item in the list shows the node number, and the item is a list of nodes that it's connected to. For example: `[[2], [2, 3], [0, 1, 3], [1, 2]]`
 - **Adjacent matrix**: A matrix that shows the connected nodes with 0 (no connection), 1 (a connection), or `Wij` (weight of a connection). For example, the above graph can be represented this way:
